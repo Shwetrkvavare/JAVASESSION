@@ -1,4 +1,4 @@
-package demo.java.datatype;
+package com.java.assignments;
 
 public class FibbonaciSeries {
 
